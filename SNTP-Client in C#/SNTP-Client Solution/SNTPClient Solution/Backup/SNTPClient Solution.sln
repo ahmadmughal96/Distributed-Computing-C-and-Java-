@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNTPClient Tester", "SNTPClient Tester\SNTPClient Tester.csproj", "{3D91F0E6-BABD-4252-B1BA-C6DB640C7521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Components", "Components\Components.csproj", "{35EE849A-D068-4416-A48B-8CCA93274E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D91F0E6-BABD-4252-B1BA-C6DB640C7521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D91F0E6-BABD-4252-B1BA-C6DB640C7521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D91F0E6-BABD-4252-B1BA-C6DB640C7521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D91F0E6-BABD-4252-B1BA-C6DB640C7521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35EE849A-D068-4416-A48B-8CCA93274E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EE849A-D068-4416-A48B-8CCA93274E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EE849A-D068-4416-A48B-8CCA93274E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EE849A-D068-4416-A48B-8CCA93274E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

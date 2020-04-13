@@ -1,0 +1,4 @@
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\Components\bin\Debug\Components.dll
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\Components\bin\Debug\Components.pdb
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\Components\obj\Debug\Components.dll
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\Components\obj\Debug\Components.pdb

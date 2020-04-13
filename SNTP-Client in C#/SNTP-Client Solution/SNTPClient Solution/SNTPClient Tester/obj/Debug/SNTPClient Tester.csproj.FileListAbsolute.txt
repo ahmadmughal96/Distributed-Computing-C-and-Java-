@@ -1,0 +1,10 @@
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\bin\Debug\SNTPClient Tester.exe
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\bin\Debug\SNTPClient Tester.pdb
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\bin\Debug\Components.dll
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\bin\Debug\Components.pdb
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.csprojResolveAssemblyReference.cache
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClientTester.FormMain.resources
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClientTester.Properties.Resources.resources
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.csproj.GenerateResource.Cache
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.exe
+C:\Users\Wajahat\Documents\Visual Studio 2013\Projects\SNTPClient Solution\SNTPClient Tester\obj\Debug\SNTPClient Tester.pdb
