@@ -1,0 +1,6 @@
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\obj\Debug\MyServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\bin\Debug\MyServiceLibrary.dll.config
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\bin\Debug\MyServiceLibrary.dll
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\bin\Debug\MyServiceLibrary.pdb
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\obj\Debug\MyServiceLibrary.dll
+C:\Users\trashid.bese14seecs\Documents\Visual Studio 2013\Projects\MyFirstServiceSolution\MyServiceLibrary\obj\Debug\MyServiceLibrary.pdb

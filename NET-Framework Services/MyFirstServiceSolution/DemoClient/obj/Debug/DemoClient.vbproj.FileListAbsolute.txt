@@ -1,0 +1,1 @@
+c:\users\blaze of fire\documents\visual studio 2012\Projects\MyFirstServiceSolution\DemoClient\bin\Debug\DemoClient.exe.config
