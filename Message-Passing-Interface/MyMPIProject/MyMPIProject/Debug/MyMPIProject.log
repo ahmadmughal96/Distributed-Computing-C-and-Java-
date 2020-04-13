@@ -1,0 +1,15 @@
+﻿Build started 12/22/2019 10:34:43 PM.
+     1>Project "C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\MyMPIProject\MyMPIProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include\x86" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ElectionLeader.cpp
+         ElectionLeader.cpp
+     1>c:\users\blaze of fire\documents\visual studio 2012\projects\mympiproject\mympiproject\electionleader.cpp(37): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\blaze of fire\documents\visual studio 2012\projects\mympiproject\mympiproject\electionleader.cpp(102): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\Debug\MyMPIProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86" msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\Debug\MyMPIProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\Debug\MyMPIProject.lib" /MACHINE:X86 Debug\ElectionLeader.obj
+         MyMPIProject.vcxproj -> C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\Debug\MyMPIProject.exe
+     1>Done Building Project "C:\Users\Blaze of Fire\documents\visual studio 2012\Projects\MyMPIProject\MyMPIProject\MyMPIProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39
