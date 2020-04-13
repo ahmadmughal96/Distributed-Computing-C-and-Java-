@@ -1,0 +1,7 @@
+Name: Ahmad Amjad Mughal
+Reg No: 121672
+Class: BSCS-6C
+
+I have provided the code files. I have 3 processes and each process communicate with other via exchanging datagram packets inside events.
+E1 is first event of P1`process while E2 is its second event. All these events are following multi-ordering and there's a synchronization
+among them. Ack is displayed whenever P2 receives a message from P1 and response is provided. 
