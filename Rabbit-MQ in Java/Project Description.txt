@@ -1,0 +1,7 @@
+Ahmad Amjad Mughal
+121672
+BSCS-6C
+					Distributed Computing Lab-06
+This lab is about RabbitMQ and to know its importance in publishing-subscribing architecture. It acts as a broker where it contains a
+working queue where its store all incoming messages and then consumers consume messages using binding key from queue.
+The implementation is provided along with snapshots.
